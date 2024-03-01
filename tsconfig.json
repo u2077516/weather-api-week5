@@ -1,5 +1,6 @@
 {
   "compilerOptions": {
+    "allowJs": true,
     "target": "es2022", // Specifies the target ECMAScript version for the output JavaScript files. Here, it targets ES2022.
     "module": "node16", // Sets the module system, in this case, for Node.js version 16 which supports ES Modules natively.
     "lib": ["ES2022"], // Specifies a list of library files to be included in the compilation. Here it includes standard library files for ES2022.
